@@ -30,7 +30,7 @@
     left: -300px;/*remove the sidebar from webpage for animation */
     transition: all 0.3s linear;
 }
-/* apna college part comes under logo under sidebar*/
+/* PhotoStudio part comes under logo under sidebar*/
 .sidebar_menu .logo{
     position: absolute;
     width: 100%;
