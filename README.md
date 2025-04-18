@@ -1,4 +1,4 @@
-# PhotoStudio Sidebar Menu
+# Photography Website
 
 A simple and elegant sidebar navigation menu for a photography website built with HTML and CSS.
 
